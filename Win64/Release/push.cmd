@@ -1,0 +1,1 @@
+pushbullet -apikey "ayh6brnt14TdqdrZJgz2qj23vlsD1EAu:" -title "Заголовок" -message "Мое сообщение"

@@ -1,0 +1,1 @@
+Посылка: <item>, Трек: <trackno>, Дата: <dt> Событие: <event_descr_tr>

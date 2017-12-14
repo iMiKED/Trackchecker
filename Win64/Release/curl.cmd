@@ -1,0 +1,1 @@
+d:\Projects\Trackchecker\Win64\Release\curl.exe --insecure https://api.pushbullet.com/v2/pushes -u ayh6brnt14TdqdrZJgz2qj23vlsD1EAu: -d type=note -d title="Title" -d body="Ntcn" -X POST
